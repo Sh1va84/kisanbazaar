@@ -1,3 +1,35 @@
+**KisanBazaar 🌾**
+
+A marketplace where farmers sell their grains directly to buyers. No middlemen, no markups.
+Built because most farmer-facing apps are in English and require reading skills that most rural farmers simply don't have. This one speaks to you.
+
+**What it does**
+
+Farmers list their wheat, rice, dal, whatever they're growing. Buyers find it, order it, and a delivery partner brings it home. Everyone gets a fair deal.
+Four types of users — farmer, consumer, delivery partner, admin. Each has their own flow.
+Farmers get voice guidance in their local language throughout the app. Hindi, Punjabi, Marathi and more. If you can't read, you can still use this.
+There's also a small AI bot that suggests what to sell based on season and region.
+
+**Features at a glance**
+
+
+Farmer listings with price, quantity, photos
+Voice readout in local language on every screen
+Consumer cart, checkout, order tracking
+Delivery partner dashboard with ride management
+Wallets for both consumers and delivery partners
+Admin panel for managing the platform
+Click tracking on product listings
+
+
+**Status**
+
+Work in progress. 
+
+
+**Steps **
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
